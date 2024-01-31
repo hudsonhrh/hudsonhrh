@@ -2,7 +2,7 @@
 
 I'm a senior at the University of Kansas majoring in Computer Science and Economics with 2 years of web3 development experience
 
-Current Projects:
+### Current Projects:
 
 ## KUBI DAO 
 A DAO and task manager for the university of kansas blockchain institute (Project Pinned)
