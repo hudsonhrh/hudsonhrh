@@ -31,7 +31,8 @@ python
 
 
 ## Other Projects:
-DAO Tools- Used Chainlink functions beta to creat a GPT-3 based task reviewer /n
+DAO Tools- Used Chainlink functions beta to creat a GPT-3 based task reviewer
+
 Hackmidwest Project- Used ERC-6551 standard to make a platform for creating donation NFT's that will send money back automatically if goal isn't met
 <!--
 **hudsonhrh/hudsonhrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
