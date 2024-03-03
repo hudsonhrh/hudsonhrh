@@ -4,6 +4,9 @@ I'm a senior at the University of Kansas majoring in Computer Science and Econom
 
 ## Current Projects:
 
+### Perpetual Orgnaization Architect
+Just worked on this project for ETH Denver. First Place Winner of Best New Subgraph (The Graph). Ill update more info later. 
+
 ### KUBI DAO 
 A DAO and task manager for the University of Kansas Blockchain Institute with innovative particiption based voting system (Project Pinned)
 
