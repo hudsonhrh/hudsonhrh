@@ -1,11 +1,11 @@
 ### Hi I'm Hudson👋
 
-I'm a senior at the University of Kansas majoring in Computer Science and Economics with 2 years of web3 development experience
+I'm a senior at the University of Kansas majoring in Computer Science and Economics with 2 years of web3 development experience. Former (because graduating) VP of Enginering at the KU Blockchain Institute
 
 ## Current Projects:
 
 ### Perpetual Orgnaization Architect
-Just worked on this project for ETH Denver. First Place Winner of Best New Subgraph (The Graph). Ill update more info later. 
+Just worked on this project for ETH Denver. First Place Winner of Best New Subgraph (The Graph). I'll update more info later. 
 
 ### KUBI DAO 
 A DAO and task manager for the University of Kansas Blockchain Institute with innovative particiption based voting system (Project Pinned)
@@ -33,23 +33,14 @@ C++
 python 
 
 
-## Other Projects:
+## Other Projects and Research:
+
+Research Paper: The Specturm of Distributed Decision Making and its Effects on Innovation, Worker Satsifaction, and Organizational Efficiency -
+Completed independent study class mentored by Profffesor Armin Schulz analyzing the spectrum of DDM from centralized to perfecrly decentralized looking at the emperical and theoretical impacts of different DDM models
+
 DAO Tools- Used Chainlink functions beta to creat a GPT-3 based task reviewer
 
 AI DAO Allignment- Designed a DAO system in collaboration with the IDI that finds regional consensus on issues surrounding AI bias. Failed to get OpenAI grant
 
 Hackmidwest Project- Used ERC-6551 standard to make a platform for creating donation NFT's that will send money back automatically if goal isn't met
-<!--
-**hudsonhrh/hudsonhrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
