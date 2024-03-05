@@ -35,7 +35,8 @@ python
 
 ## Other Projects and Research:
 
-Research Paper: The Specturm of Distributed Decision Making and its Effects on Innovation, Worker Satsifaction, and Organizational Efficiency -
+Research Paper: 
+The Specturm of Distributed Decision Making and its Effects on Innovation, Worker Satsifaction, and Organizational Efficiency -
 Completed independent study class mentored by Profffesor Armin Schulz analyzing the spectrum of DDM from centralized to perfecrly decentralized looking at the emperical and theoretical impacts of different DDM models
 
 DAO Tools- Used Chainlink functions beta to creat a GPT-3 based task reviewer
