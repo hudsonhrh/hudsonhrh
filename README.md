@@ -5,7 +5,16 @@ I'm a senior at the University of Kansas majoring in Computer Science and Econom
 ## Current Projects:
 
 ### Perpetual Orgnaization Architect
-Just worked on this project for ETH Denver. First Place Winner of Best New Subgraph (The Graph). I'll update more info later. 
+First Place Winner of Best New Subgraph (The Graph) at ETH Denver. Told in person will be officially announced March 10th
+
+The Perpetual Organization Architect is an AI tool that helps users define the features they want in their Perpetual Organization and deploys it for them.
+This version of the project guides the user through decisions like role distribution, governance, and voting design. Based on the user's selections, it deploys a customized Perpetual Organization that is fully decentralized in nature.
+
+Perpetual Organizations are unique because instead of having people who buy tokens make the decsions you can only get tokens through participation or direct democracy through being a community member. Read more on the devfolio here: https://devfolio.co/projects/perpetual-organization-architect-d9bb
+
+
+My Role:
+I did everything but the front end which is currently still under construction. This included the system deisgn, subgraph development, smart contract development, governance design. I will continue to work on the project longterm. Checkout the smart contracts and subgraph!
 
 ### KUBI DAO 
 A DAO and task manager for the University of Kansas Blockchain Institute with innovative particiption based voting system (Project Pinned)
