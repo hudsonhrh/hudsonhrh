@@ -5,12 +5,14 @@ I'm a senior at the University of Kansas majoring in Computer Science and Econom
 ## Current Projects:
 
 ### Perpetual Orgnaization Architect
-First Place Winner of Best New Subgraph (The Graph) at ETH Denver. https://ethereumdenver.medium.com/ethdenver-2024-buidlathon-track-sponsor-bounty-winners-1960eea4d0ae 
+First Place Winner of Best New Subgraph (The Graph) at ETH Denver. [here](https://ethereumdenver.medium.com/ethdenver-2024-buidlathon-track-sponsor-bounty-winners-1960eea4d0ae)
+
+Particpating in Gitcoin Grants Round 20 [here](https://explorer.gitcoin.co/#/round/42161/23/50)
 
 The Perpetual Organization Architect is an AI tool that helps users define the features they want in their Perpetual Organization and deploys it for them.
 This version of the project guides the user through decisions like role distribution, governance, and voting design. Based on the user's selections, it deploys a customized Perpetual Organization that is fully decentralized in nature.
 
-Perpetual Organizations are unique because instead of having people who buy tokens make the decsions you can only get tokens through participation or direct democracy through being a community member. Read more on the devfolio here: https://devfolio.co/projects/perpetual-organization-architect-d9bb
+Perpetual Organizations are unique because instead of having people who buy tokens make the decsions you can only get tokens through participation or direct democracy through being a community member.   Visit the site here: [poa.community](https://poa.community)
 
 
 My Role:
