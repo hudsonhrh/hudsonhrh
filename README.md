@@ -16,7 +16,7 @@ Perpetual Organizations are unique because instead of having people who buy toke
 
 
 My Role:
-I did everything but the front end which is currently still under construction. This included the system deisgn, subgraph development, smart contract development, governance design. I will continue to work on the project longterm. Checkout the smart contracts and subgraph!
+I did everything but 10% of front end, which is currently still under construction. This included the system deisgn, subgraph development, smart contract development, governance design. I will continue to work on the project longterm. Checkout the smart contracts and subgraph!
 
 ### KUBI DAO 
 A DAO and task manager for the University of Kansas Blockchain Institute with innovative particiption based voting system (Project Pinned)
