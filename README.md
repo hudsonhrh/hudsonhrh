@@ -1,6 +1,6 @@
 ### Hi I'm Hudson👋
 
-I'm a senior at the University of Kansas majoring in Computer Science and Economics with 2 years of web3 development experience. Former (because graduating) VP of Enginering at the KU Blockchain Institute
+I'm the Founder of the Perpetual Organization Architect, a no code DAO builder for worker-owned organizations. Been developing in the web3 space for 2 years now and have a BS in Computer Science and Economics from the University of Kansas
 
 ## Current Projects:
 
