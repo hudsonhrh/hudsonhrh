@@ -1,6 +1,6 @@
 ### Hi I'm Hudson👋
 
-I'm the Founder of the Perpetual Organization Architect, a no code DAO builder for worker-owned organizations. Been developing in the web3 space for 2 years now and have a BS in Computer Science and Economics from the University of Kansas
+I'm the Founder of the Perpetual Organization Architect, a no code DAO builder for worker-owned organizations. Been developing in the web3 space for 3 years now and have a BS in Computer Science and Economics from the University of Kansas
 
 ## Current Projects:
 
@@ -8,6 +8,8 @@ I'm the Founder of the Perpetual Organization Architect, a no code DAO builder f
 First Place Winner of Best New Subgraph (The Graph) at ETH Denver. [here](https://ethereumdenver.medium.com/ethdenver-2024-buidlathon-track-sponsor-bounty-winners-1960eea4d0ae)
 
 Particpating in Gitcoin Grants Round 20 [here](https://explorer.gitcoin.co/#/round/42161/23/50)
+
+Grant Winner from Moros Net [here](https://morosnet.com/project/poa-perpetual-organization-architect/)
 
 The Perpetual Organization Architect is an AI tool that helps users define the features they want in their Perpetual Organization and deploys it for them.
 This version of the project guides the user through decisions like role distribution, governance, and voting design. Based on the user's selections, it deploys a customized Perpetual Organization that is fully decentralized in nature.
