@@ -1,4 +1,4 @@
-### Hi I'm Hudson👋
+### Hi I'm Hudson Headley👋
 
 I'm the Founder of the Perpetual Organization Architect, a no code DAO builder for worker-owned organizations. Been developing in the web3 space for 3 years now and have a BS in Computer Science and Economics from the University of Kansas
 
@@ -11,7 +11,7 @@ Particpating in Gitcoin Grants Round 20 [here](https://explorer.gitcoin.co/#/rou
 
 Grant Winner from Moros Net [here](https://morosnet.com/project/poa-perpetual-organization-architect/)
 
-The Perpetual Organization Architect is an AI tool that helps users define the features they want in their Perpetual Organization and deploys it for them.
+The Perpetual Organization Architect is an AI tool that helps users define the features they want in their Perpetual Organization (fully worker-owned unstoppable DAO) and deploys it for them.
 This version of the project guides the user through decisions like role distribution, governance, and voting design. Based on the user's selections, it deploys a customized Perpetual Organization that is fully decentralized in nature.
 
 Perpetual Organizations are unique because instead of having people who buy tokens make the decsions you can only get tokens through participation or direct democracy through being a community member.   Visit the site here: [poa.community](https://poa.community)
