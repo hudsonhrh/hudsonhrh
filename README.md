@@ -1,6 +1,6 @@
 ### Hi I'm Hudson Headley👋
 
-I'm the Founder of the Perpetual Organization Architect, a no code DAO builder for worker-owned organizations. Been developing in the web3 space for 3 years now and have a BS in Computer Science and Economics from the University of Kansas
+I'm the Founder of Poa the Perpetual Organization Architect, a no code DAO builder for worker-owned organizations. Been developing in the web3 space for 3 years now and have a BS in Computer Science and Economics from the University of Kansas
 
 ## Current Projects:
 
@@ -16,6 +16,11 @@ This version of the project guides the user through decisions like role distribu
 
 Perpetual Organizations are unique because instead of having people who buy tokens make the decsions you can only get tokens through participation or direct democracy through being a community member.   Visit the site here: [poa.community](https://poa.community)
 
+### IDI Volunteer Network
+A community hub for assinging tasjs and desgining on projects and goals for the Inclusive Design Institutes volunteer network
+
+My Role:
+I am the Lead DAO Designer and Developer. I've developed the smart contract protocol and tech stack. Currently waiting on front end designs.
 
 My Role:
 I did everything but 10% of front end, which is currently still under construction. This included the system deisgn, subgraph development, smart contract development, governance design. I will continue to work on the project longterm. Checkout the smart contracts and subgraph!
@@ -25,12 +30,6 @@ A DAO and task manager for the University of Kansas Blockchain Institute with in
 
 My Role:
 I've been the lead designer and developer of this project (99% of contribution) building the smart contracts, subgraph, and front end from scratch. Put hundreds of hours into this focusing on making as decentralized as possible while innovating in the governance design
-
-### IDI Volunteer Network
-A community hub for assinging tasjs and desgining on projects and goals for the Inclusive Design Institutes volunteer network
-
-My Role:
-I am the Lead DAO Designer and Developer. I've developed the smart contract protocol and tech stack. Currently waiting on front end designs. My role is very similar to the KUBI DAO but this time for a bigger non profit
 
 ### AttendThis  
 A blockchain based attednance reward system to redeem attednance for coupons at local buisnesses. Built to protect user privacy but still verify attedance. App and website. (Pinned Project)
@@ -43,8 +42,8 @@ Javascript
 Soliditiy
 GraphQL
 C++
-python 
-
+python
+Foundry
 
 ## Other Projects and Research:
 
