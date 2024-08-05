@@ -2,9 +2,9 @@
 
 I’m a Protocol Engineer passionate about decentralization, worker ownership, and governance design. 
 
-I’ve been involved with developing many DAOs with various models and is currently developing Poa, a no-code DAO builder geared towards orgs that are fully owned by the community and not by capital. 
+I’ve been involved with developing many DAOs with various models and am currently developing Poa, a no-code DAO builder geared towards orgs that are fully owned by the community and not by capital. 
 
-In all my work, I hope to build spaces for founders interested in community ownership to experiment and innovate quickly with new governance models.
+I hope to build spaces for founders interested in community ownership to experiment and innovate quickly with new governance models.
 
 ## Current Projects:
 
